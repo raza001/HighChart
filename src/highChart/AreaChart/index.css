@@ -1,0 +1,23 @@
+.custom-y-axis text {
+  fill: #777e90 !important; /* Change text color of y-axis labels */
+  font-weight: normal !important;
+  font-family: "DM Sans" !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  line-height: 18px !important;
+}
+.highcharts-scrollbar {
+  display: none;
+}
+.custom-navigator-xaxis text {
+  fill: #777e90 !important; /* Change text color of y-axis labels */
+  color: #777e90 !important;
+  font-weight: normal !important;
+  font-family: "DM Sans" !important;
+  font-size: 12px !important;
+  font-style: normal !important;
+  line-height: 18px !important;
+}
+.highcharts-input-group {
+  display: none;
+}
